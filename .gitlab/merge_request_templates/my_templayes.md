@@ -1,3 +1,7 @@
-info a mettre
+Branche source : "main"
 
-info a mettre 
+Branche destination : ""
+
+Utilité de la branche : "branche principale"
+
+Description rapide de la branche : "branche de réference. A NE PAS TOUCHER SANS VALIDATION"
