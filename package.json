@@ -1,0 +1,30 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint TPSpotify/index.js",
+    "lint:fix": "eslint --fix TPSpotify/index.js",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simonbelhassen/Spotify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simonbelhassen/Spotify/issues"
+  },
+  "homepage": "https://github.com/Simonbelhassen/Spotify#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "husky": "^8.0.0"
+  }
+}
