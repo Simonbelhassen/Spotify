@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+npm run lint:fix
+# This command should be the same command that you executed the previous process
+
+# Optional
+#exit 1
