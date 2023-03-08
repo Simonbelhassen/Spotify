@@ -1,7 +1,7 @@
-Branche source : "main"
+Branche source : ""
 
 Branche destination : ""
 
-Utilité de la branche : "branche principale"
+Utilité de la branche : ""
 
-Description rapide de la branche : "branche de réference. A NE PAS TOUCHER SANS VALIDATION"
+Description rapide de la branche : ""
